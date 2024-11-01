@@ -10,7 +10,7 @@ https://cookielessons.blog
 
 ---
 
-	<img src="https://ovo2.blog/files/image/retro-bowl_1.png" alt="Retro Bowl" />
+<img src="https://ovo2.blog/files/image/retro-bowl_1.png" alt="Retro Bowl" />
  
 **The Ultimate Guide to Retro Bowl: Gameplay, Strategies, and Tips for Success**
 
